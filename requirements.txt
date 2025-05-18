@@ -1,0 +1,16 @@
+streamlit
+openai
+PyPDF2
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+sentence-transformers
+scikit-learn
+deep-translator
+langchain
+chromadb
+tiktoken
+kaleido
+faiss-cpu
