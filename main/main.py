@@ -8,6 +8,9 @@ from data_visualizer import *
 from semantic_search import *
 from translator import *
 from fallback_data import *
+from threading import Thread
+from fastapi_app import app
+import uvicorn
 
 st.set_page_config(
     page_title="Document Analyzer",
@@ -15,6 +18,13 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
+
+# Run FastAPI in a separate thread
+def run_fastapi():
+    uvicorn.run(app, host="0.0.0.0", port=8000)
+
+fastapi_thread = Thread(target=run_fastapi, daemon=True)
+fastapi_thread.start()
 
 def initialize_app():
     init_database()
