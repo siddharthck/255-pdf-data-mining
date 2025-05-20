@@ -1,7 +1,7 @@
 ## Video Demo
 Stored in folder - Video_Demo  
 <video src="Video_Demo/video1292717714.mp4" width="600" controls></video>  
-[Watch the demo video](Video_Demo/video1292717714.mp4).
+Download and [Watch the demo video](Video_Demo/video1292717714.mp4).
 
 ---
 
