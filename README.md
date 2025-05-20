@@ -1,3 +1,10 @@
+## Video Demo
+Stored in folder - Video_Demo  
+<video src="Video_Demo/video1292717714.mp4" width="600" controls></video>  
+[Watch the demo video](Video_Demo/video1292717714.mp4).
+
+---
+
 # Financial Document Analyser
 
 AI-powered tool for automated mining and analysis of large PDF financial documents, featuring semantic search, question-answering, and multi-language translation.
@@ -12,13 +19,6 @@ AI-powered tool for automated mining and analysis of large PDF financial documen
 
 ---
 
-## Video Demo
-
-Stored in folder - Video_Demo  
-<video src="Video_Demo/video1292717714.mp4" width="600" controls></video>  
-[Watch the demo video](Video_Demo/video1292717714.mp4).
-
----
 
 ## Overview
 
