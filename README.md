@@ -1,5 +1,9 @@
+
+
 ## Video Demo
 Stored in folder - Video_Demo  
+
+To download the video, right-click the link above and select "Save link as..."
 <video src="Video_Demo/video1292717714.mp4" width="600" controls></video>  
 Download and [Watch the demo video](Video_Demo/video1292717714.mp4).
 
